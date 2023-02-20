@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fisrt year PhD student at the Faculty of Informatics, Masaryk University, working under the supervision of Daniel Král' at the DIMEA laboratory. I received my master's degree from the ShanDong University under the supervision of Guanghui Wang. 
+I am a fisrt year PhD student at the [Faculty of Informatics, Masaryk University](https://www.fi.muni.cz/), working under the supervision of [Daniel Král'](https://www.ucw.cz/~kral/) at the [DIMEA](https://www.fi.muni.cz/research/laboratories/dimea.html) laboratory. I received my master's degree from the [ShanDong University](https://en.sdu.edu.cn/) under the supervision of [Guanghui Wang](https://faculty.sdu.edu.cn/wangguanghui1/en/index.htm). 
 
 Contact details:\
 Office:   C515, main FI building \

@@ -10,7 +10,7 @@ redirect_from:
 
 I am a fisrt year PhD student at the Faculty of Informatics, Masaryk University, working under the supervision of Daniel Král' at the DIMEA laboratory. I received my master's degree from the ShanDong University under the supervision of Guanghui Wang. 
 
-Contact details:
+Contact details:\
 Office:   C515, main FI building \
 Email:    shuxch15@gmail.com
 

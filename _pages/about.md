@@ -11,7 +11,7 @@ redirect_from:
 I am a first year PhD student at the [Faculty of Informatics, Masaryk University](https://www.fi.muni.cz/), working under the supervision of [Daniel Král'](https://www.ucw.cz/~kral/) at the [DIMEA](https://www.fi.muni.cz/research/laboratories/dimea.html) laboratory. I received my master's degree from the [ShanDong University](https://en.sdu.edu.cn/) under the supervision of [Guanghui Wang](https://faculty.sdu.edu.cn/wangguanghui1/en/index.htm). 
 
 Contact details:\
-Office:   C515, main FI building \
+Office:   C516, main FI building \
 Email:    shuxch15@gmail.com
 
 Publication

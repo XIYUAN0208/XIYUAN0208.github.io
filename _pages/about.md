@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a PhD student at the [Faculty of Mathematics and Computer Science, Leipzig University](https://www.mathcs.uni-leipzig.de/en) in Leipzig since June 2025, working under the supervision of [Daniel Král'](https://www.ucw.cz/~kral/).
-Prior to that, I began my PhD studies at the [Faculty of Informatics, Masaryk University](https://www.fi.muni.cz/) in Brno since November, following my supervisor.
+Prior to that, I began my PhD studies at the [Faculty of Informatics, Masaryk University](https://www.fi.muni.cz/) in Brno since November 2022, following my supervisor.
 I received my master's degree from the [ShanDong University](https://en.sdu.edu.cn/) under the supervision of [Guanghui Wang](https://faculty.sdu.edu.cn/wangguanghui1/en/index.htm). 
 
 Contact details:\

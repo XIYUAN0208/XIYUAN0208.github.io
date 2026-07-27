@@ -18,26 +18,30 @@ Email:    shuxch15@gmail.com & xichao.shu@uni-leipzig,de
 
 Publication
 ======
-1. X. Shu, Z. Wu, Y. Xue: Abundance of Unique Subhypergraphs.
+1. X. Shu: Tight Hamilton Cycles in Linearly Quasirandom 3-Graphs.
+preprint arXiv:2607.21568 (2026)
+2. J. Hladký, D. Iľkovič, J. León, X. Shu: Arithmetic progressions in a random set on a budget.
+preprint arXiv:2607.21565 (2026)
+3. X. Shu, Z. Wu, Y. Xue: Abundance of Unique Subhypergraphs.
 preprint arXiv:2606.02546 (2026)
-2. T.-W. Chao, Z. Dong, H. Liu, X. Shu, S. Wang: A dichotomy for hypergraph Zarankiewicz problems on axis-parallel boxes.
+4. T.-W. Chao, Z. Dong, H. Liu, X. Shu, S. Wang: A dichotomy for hypergraph Zarankiewicz problems on axis-parallel boxes.
 preprint arXiv:2604.20815 (2026)
-3. B. Kielak, D. Král', A. Lamaison, X. Shu：Fundamental cycles in grid graphs.
+5. B. Kielak, D. Král', A. Lamaison, X. Shu：Fundamental cycles in grid graphs.
 preprint arXiv:2604.17595 (2026)
-4. D. Iľkovič, J. León, X. Shu: Multi-cyclic graphs in the random graph process with restricted budget.
+6. D. Iľkovič, J. León, X. Shu: Multi-cyclic graphs in the random graph process with restricted budget.
 preprint arXiv:2412.17620 (2024).
-5. J. Hladký, D. Iľkovič, J. León, X. Shu: On cospectral graphons.
+7. J. Hladký, D. Iľkovič, J. León, X. Shu: On cospectral graphons.
 The Electronic Journal of Combinatorics, 33(1), (2026), P1.10.
-6. M. Briański, D. Kráľ, A. Lamaison and X. Shu: Four-coloring Eulerian triangulations of the torus, preprint arXiv:2409.19165 (2024).
-7. D. Kráľ, A. Lamaison, M. Prorok and X. Shu: The dimension of the region of feasible tournament profiles.
+8. M. Briański, D. Kráľ, A. Lamaison and X. Shu: Four-coloring Eulerian triangulations of the torus, preprint arXiv:2409.19165 (2024).
+9. D. Kráľ, A. Lamaison, M. Prorok and X. Shu: The dimension of the region of feasible tournament profiles.
 SIAM Journal on Discrete Mathematics 39 (2025), Issue 2. 
-8. J. Han, X. Shu, G. Wang: Non-linear Hamilton cycles in linear quasirandom and uniformly dense hypergraphs.
+10. J. Han, X. Shu, G. Wang: Non-linear Hamilton cycles in linear quasirandom and uniformly dense hypergraphs.
 Journal of Combinatorial Theory, Series B, 177 (2026), 1-30.
-9. D. Yin, X. Zhang, X. Shu, G. Yan, G, Wang: Search for Good Irregular Low-Density Parity-Check Codes via Graph Spectrum.
+11. D. Yin, X. Zhang, X. Shu, G. Yan, G, Wang: Search for Good Irregular Low-Density Parity-Check Codes via Graph Spectrum.
 2021 IEEE 32nd Annual International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC), pp 405-410.
-10. J. Han, X. Shu, G. Wang: Non-linear Hamilton cycles in linear quasirandom hypergraphs.
+12. J. Han, X. Shu, G. Wang: Non-linear Hamilton cycles in linear quasirandom hypergraphs.
 ACM-SIAM Symposium on Discrete Algorithms 2021 (SODA21), pp 74-88.
-11. X. Li, X. Shu, H. Huang, J. Bai: Capacitated partial inverse maximum spanning tree under the weighted Hamming distance.
+13. X. Li, X. Shu, H. Huang, J. Bai: Capacitated partial inverse maximum spanning tree under the weighted Hamming distance.
 Journal of Combinatorial Optimization, 38, (2019), 1005-1018.
 
 

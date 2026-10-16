@@ -17,43 +17,48 @@ Email:    shuxch15@gmail.com & xichao.shu@uni-leipzig.de
 
 Publication
 ======
-1. X. Shu, J. Yu, J. Zhang: Infinitesimal finite forcibility and step kernels. preprint arXiv:2608.21992 (2026)
-2. X. Shu: Tight Hamilton Cycles in Linearly Quasirandom 3-Graphs.
+1. B. Kielak, D. Kráľ, A. Lamaison, H. Liu, X. Shu, Z. Wu: Solution of uniform Turán's Tetrahedron Problem. preprint, arXiv:2609.08336 (2026).
+2. X. Shu, J. Yu, J. Zhang: Infinitesimal finite forcibility and step kernels. preprint arXiv:2608.21992 (2026)
+3. X. Shu: Tight Hamilton Cycles in Linearly Quasirandom 3-Graphs.
 preprint arXiv:2607.21568 (2026)
-3. J. Hladký, D. Iľkovič, J. León, X. Shu: Arithmetic progressions in a random set on a budget.
+4. J. Hladký, D. Iľkovič, J. León, X. Shu: Arithmetic progressions in a random set on a budget.
 preprint arXiv:2607.21565 (2026)
-4. X. Shu, Z. Wu, Y. Xue: Abundance of Unique Subhypergraphs.
+5. X. Shu, Z. Wu, Y. Xue: Abundance of Unique Subhypergraphs.
 preprint arXiv:2606.02546 (2026)
-5. T.-W. Chao, Z. Dong, H. Liu, X. Shu, S. Wang: A dichotomy for hypergraph Zarankiewicz problems on axis-parallel boxes.
+6. T.-W. Chao, Z. Dong, H. Liu, X. Shu, S. Wang: A dichotomy for hypergraph Zarankiewicz problems on axis-parallel boxes.
 preprint arXiv:2604.20815 (2026)
-6. B. Kielak, D. Král', A. Lamaison, X. Shu：Fundamental cycles in grid graphs.
+7. B. Kielak, D. Král', A. Lamaison, X. Shu：Fundamental cycles in grid graphs.
 preprint arXiv:2604.17595 (2026)
-7. D. Iľkovič, J. León, X. Shu: Multi-cyclic graphs in the random graph process with restricted budget.
+8. D. Iľkovič, J. León, X. Shu: Multi-cyclic graphs in the random graph process with restricted budget.
 preprint arXiv:2412.17620 (2024).
-8. J. Hladký, D. Iľkovič, J. León, X. Shu: On cospectral graphons.
+9. J. Hladký, D. Iľkovič, J. León, X. Shu: On cospectral graphons.
 The Electronic Journal of Combinatorics, 33(1), (2026), P1.10.
-9. M. Briański, D. Kráľ, A. Lamaison and X. Shu: Four-coloring Eulerian triangulations of the torus, preprint arXiv:2409.19165 (2024).
-10. D. Kráľ, A. Lamaison, M. Prorok and X. Shu: The dimension of the region of feasible tournament profiles.
+10. M. Briański, D. Kráľ, A. Lamaison and X. Shu: Four-coloring Eulerian triangulations of the torus, preprint arXiv:2409.19165 (2024).
+11. D. Kráľ, A. Lamaison, M. Prorok and X. Shu: The dimension of the region of feasible tournament profiles.
 SIAM Journal on Discrete Mathematics 39 (2025), Issue 2. 
-11. J. Han, X. Shu, G. Wang: Non-linear Hamilton cycles in linear quasirandom and uniformly dense hypergraphs.
+12. J. Han, X. Shu, G. Wang: Non-linear Hamilton cycles in linear quasirandom and uniformly dense hypergraphs.
 Journal of Combinatorial Theory, Series B, 177 (2026), 1-30.
-12. D. Yin, X. Zhang, X. Shu, G. Yan, G, Wang: Search for Good Irregular Low-Density Parity-Check Codes via Graph Spectrum.
+13. D. Yin, X. Zhang, X. Shu, G. Yan, G, Wang: Search for Good Irregular Low-Density Parity-Check Codes via Graph Spectrum.
 2021 IEEE 32nd Annual International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC), pp 405-410.
-13. J. Han, X. Shu, G. Wang: Non-linear Hamilton cycles in linear quasirandom hypergraphs.
+14. J. Han, X. Shu, G. Wang: Non-linear Hamilton cycles in linear quasirandom hypergraphs.
 ACM-SIAM Symposium on Discrete Algorithms 2021 (SODA21), pp 74-88.
-14. X. Li, X. Shu, H. Huang, J. Bai: Capacitated partial inverse maximum spanning tree under the weighted Hamming distance.
+15. X. Li, X. Shu, H. Huang, J. Bai: Capacitated partial inverse maximum spanning tree under the weighted Hamming distance.
 Journal of Combinatorial Optimization, 38, (2019), 1005-1018.
 
 
 Talk
 ======
-1. 2026 Shandong University Young Scholars Forum on Graph Theory and Combinatorics, June 2026. Fundamental cycles in grid graphs.
-2. Invited Talk at the Center for Mathematics and Interdisciplinary Frontier Sciences, Shandong University, February 2025. Multi-cyclic graphs in the random graph process with restricted budget.
-3. Combinatorics group seminar at the Institute of Computer Science of the Czech Academy of Sciences, November, 2024. Four-coloring Eulerian triangulations of the torus.
-4. DIMEA Combinatorial Potluck 2024, October 2024. Four-coloring Eulerian triangulations of the torus.
-5. The 41st Colloquium on Combinatorics (Kolloqium über Kombinatorik), October 2024. Four-coloring Eulerian triangulations of the torus.
-6. Shandong University Young Mathematicians Forum, Series No. 12, April 2024. The dimension of the region of feasible tournament profiles.
-7. The 1st Workshop on Development in Combinatorics, October 2021. Non-linear Hamilton cycles in linear quasi-random hypergraphs.
-8. The 12th Computer Mathematics Conference of Chinese Mathematics Society, June 2021. Non-linear Hamilton cycles in linear quasi-random hypergraphs.
-9. ACM-SIAM Symposium on Discrete Algorithms 2021 (SODA21), January 2021. Non-linear Hamilton cycles in linear quasi-random hypergraphs. 
+1. Jiang Lifu Academic Lecture Series, Nankai University, October 2026. Tight Hamilton Cycles in Linearly Quasirandom 3-Graphs.
+2. SDU Combinatorics Seminar, Shandong University, September 2026. Tight Hamilton Cycles in Linearly Quasirandom 3-Graphs.
+3. Graph Theory: Structure, Surfaces, Spectra (conference celebrating the 70th birthday of
+Bojan Mohar), Shanghai Center for Mathematical Sciences, Fudan University, September 2026. The Uniform Turán Density of the Tetrahedron.
+4. 2026 Shandong University Young Scholars Forum on Graph Theory and Combinatorics, June 2026. Fundamental cycles in grid graphs.
+5. Invited Talk at the Center for Mathematics and Interdisciplinary Frontier Sciences, Shandong University, February 2025. Multi-cyclic graphs in the random graph process with restricted budget.
+6. Combinatorics group seminar at the Institute of Computer Science of the Czech Academy of Sciences, November, 2024. Four-coloring Eulerian triangulations of the torus.
+7. DIMEA Combinatorial Potluck 2024, October 2024. Four-coloring Eulerian triangulations of the torus.
+8. The 41st Colloquium on Combinatorics (Kolloqium über Kombinatorik), October 2024. Four-coloring Eulerian triangulations of the torus.
+9. Shandong University Young Mathematicians Forum, Series No. 12, April 2024. The dimension of the region of feasible tournament profiles.
+10. The 1st Workshop on Development in Combinatorics, October 2021. Non-linear Hamilton cycles in linear quasi-random hypergraphs.
+11. The 12th Computer Mathematics Conference of Chinese Mathematics Society, June 2021. Non-linear Hamilton cycles in linear quasi-random hypergraphs.
+12. ACM-SIAM Symposium on Discrete Algorithms 2021 (SODA21), January 2021. Non-linear Hamilton cycles in linear quasi-random hypergraphs. 
 
